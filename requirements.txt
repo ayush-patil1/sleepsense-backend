@@ -8,7 +8,6 @@ pandas
 numpy
 librosa
 xgboost
-tensorflow
 transformers
 sqlalchemy
 passlib[bcrypt]
