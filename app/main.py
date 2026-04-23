@@ -16,7 +16,6 @@ from datetime import date, datetime, timedelta
 from .api import load_models, generate_report_logic
 from .api import load_models, generate_report_logic
 from typing import Optional
-from google.oauth2 import id_token
 from google.auth.transport import requests as google_requests
 from .schemas import ReportRequest, UserCreate, UserLogin, Token, GoogleLoginRequest
 from . import models, database, auth
