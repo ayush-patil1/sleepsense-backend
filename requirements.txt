@@ -6,10 +6,6 @@ joblib
 pandas
 numpy
 xgboost
-<<<<<<< HEAD
-transformers
-=======
->>>>>>> 72f8311 (removed tensorflow import)
 sqlalchemy
 passlib[bcrypt]
 pyjwt
