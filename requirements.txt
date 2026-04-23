@@ -1,13 +1,7 @@
 fastapi
 uvicorn
 pydantic
-python-multipart
 joblib
 pandas
 numpy
 xgboost
-sqlalchemy
-passlib[bcrypt]
-pyjwt
-requests
-python-dotenv
