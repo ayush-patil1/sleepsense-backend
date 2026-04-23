@@ -2,16 +2,16 @@ fastapi
 uvicorn
 pydantic
 python-multipart
-torch
 joblib
 pandas
 numpy
-librosa
 xgboost
+<<<<<<< HEAD
 transformers
+=======
+>>>>>>> 72f8311 (removed tensorflow import)
 sqlalchemy
 passlib[bcrypt]
 pyjwt
-fitbit
 requests
 python-dotenv
